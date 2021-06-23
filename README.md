@@ -14,3 +14,10 @@ O que aprendemos com esse exemplo?
 O exemplo foi montado seguindo a estrutura do parcel: https://parceljs.org/getting_started.html
 
 
+## Como posso rodar o projeto local?
+Utilizando o comando:  
+```sh 
+yarn dev
+```
+
+Após o comando o sistema irá imprimir uma url para utilização, só pegar e utilizar no seu browser favorito.
